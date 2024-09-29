@@ -1,3 +1,4 @@
+# TEAM MERCHANDISING REVENUE SYSTEM
 class Merchandise:
     def __init__(self, name, price):
         self.name = name
